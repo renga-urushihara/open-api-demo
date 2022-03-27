@@ -1,0 +1,1 @@
+npx @openapitools/openapi-generator-cli generate -i openapi.yaml -g spring -c ./openapi_config.json -o dist/spring
